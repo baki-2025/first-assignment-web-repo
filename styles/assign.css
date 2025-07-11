@@ -50,7 +50,7 @@
     .banner h1 {
       font-size: 15px;
       margin-bottom: 30px;
-      text-align: justify;
+      display: table-footer-group;
     }
 
     .focus-btn {
@@ -319,7 +319,7 @@
 }
 
 .review-date {
-  font-size: 14px;
+  font-size: 8px;
   color: #777;
 }
 .btn {
