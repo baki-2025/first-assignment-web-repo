@@ -307,8 +307,9 @@
   padding: 20px 30px;
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0,0,0,0.05);
-  gap: 20px;
+  
 }
+
 
 .feedback-card img {
   width: 70px;
